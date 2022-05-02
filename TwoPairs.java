@@ -36,9 +36,9 @@ public class TwoPairs {
 	
 	public static void main(String[] args) {
 		HashSet<Integer> iteration = new HashSet<Integer>();
-		int sum=60;
+		int sum=130;
 		Node root = new Node(40);
-		Node left = new Node(20);
+		Node left = new Node(70);
 		Node right = new Node(60);
 		root.left = left;
 		root.right = right;
